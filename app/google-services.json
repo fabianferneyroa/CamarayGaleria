@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "123519028818",
+    "project_id": "autentificacion-47072",
+    "storage_bucket": "autentificacion-47072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123519028818:android:f49901866bdd311c02998b",
+        "android_client_info": {
+          "package_name": "com.veterinaria.autentificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123519028818-90un2lhdp8qjf55c3lq9ctqjtai0m1g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veterinaria.autentificacion",
+            "certificate_hash": "3b0b9682796eed18f1ef020d0239d564e6fc208c"
+          }
+        },
+        {
+          "client_id": "123519028818-oinkl091n5p1vf1u1k21ffk1ue34c3to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1Iq4d9-ekcIEvKeuvJM2YVr6_fKbL_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123519028818-oinkl091n5p1vf1u1k21ffk1ue34c3to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123519028818:android:b92e18a1c10cec2c02998b",
+        "android_client_info": {
+          "package_name": "com.veterinaria.camarastorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123519028818-oinkl091n5p1vf1u1k21ffk1ue34c3to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1Iq4d9-ekcIEvKeuvJM2YVr6_fKbL_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123519028818-oinkl091n5p1vf1u1k21ffk1ue34c3to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
